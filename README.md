@@ -1,1 +1,1 @@
-# sql_02
+# SQL-Assignment-02
